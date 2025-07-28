@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@react-three/drei": "^10.6.1",
+    "@react-three/fiber": "^9.2.0",
     "cra-template-pwa-typescript": "2.0.0",
-    "globe.gl": "^2.42.0",
+    "r3f-globe": "^1.4.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
